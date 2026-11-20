@@ -1,0 +1,11 @@
+{
+  "title": "Code for: The magician's trick with overlapping boxes (a generalization of IMO 2000 Problem 4)",
+  "upload_type": "software",
+  "description": "Verification scripts accompanying the paper by Madjid Mirzavaziri and Daniel Yaqubi on partitions of [n] into three classes with pairwise disjoint restricted sumsets. The scripts count all such partitions, check the formula 33n^2-117n+9-3(-1)^n, verify the classification of each type, and generate the certificate tables of the appendix.",
+  "creators": [
+    {"name": "Mirzavaziri, Madjid", "affiliation": "Ferdowsi University of Mashhad"},
+    {"name": "Yaqubi, Daniel", "affiliation": "University of Torbat-e Jam"}
+  ],
+  "license": "MIT",
+  "keywords": ["restricted sumsets", "IMO 2000", "partitions", "additive combinatorics", "enumeration"]
+}
