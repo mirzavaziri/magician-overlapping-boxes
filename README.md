@@ -16,6 +16,10 @@ bookkeeping tables of the appendix. They use only the Python 3 standard library.
 | `code/c0_identities.py` | Every symbolic identity `i+j=k+l` used in the hand proofs, over parameter ranges | `python3 c0_identities.py` |
 | `code/c0_certificates.py` | Continuation tree of a fixed prefix (appendix) | `python3 c0_certificates.py ABBCA` |
 | `code/c0_certificates_tex.py` | Writes the appendix tables as LaTeX | `python3 c0_certificates_tex.py` |
+| `code/host_sets_check.py` | Host sets for r-1 and r-2 copies (Hall's theorem) | `python3 host_sets_check.py` |
+| `code/hole_theorem_check.py` | Two-class partitions of an interval with one hole | `python3 hole_theorem_check.py 10 23` |
+| `code/hole_identities.py` | Identities used in the proof of the hole theorem | `python3 hole_identities.py` |
+| `code/c2_check.py` | Partitions with two classes of size two (180 ordered triples) | `python3 c2_check.py 20` |
 | `code/c0_sumsets.py` | Restricted sumsets of the doubly split families (table in the paper) | `python3 c0_sumsets.py` |
 
 Run the scripts from inside the `code` folder.
